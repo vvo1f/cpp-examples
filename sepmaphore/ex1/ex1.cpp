@@ -24,7 +24,7 @@ int main() {
 }
 
 /*
-    Analysis:
+    * Analysis:
         - main tries to create the thr thread using tf function.
         - tf runs and blocks in m2t.acquire() because m2t is 0.
         - main releases m2t semaphore, so tf can continue.
