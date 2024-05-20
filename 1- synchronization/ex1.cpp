@@ -1,3 +1,7 @@
+/*
+    binary semaphore
+*/
+
 #include <iostream>
 #include <chrono>
 #include <semaphore>

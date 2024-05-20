@@ -5,6 +5,7 @@
 - Table of Contents
 
 0. Bubble Sort
+1. Synchronization
 
 # Instructions
 
