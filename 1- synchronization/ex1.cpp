@@ -20,7 +20,7 @@ void tf() {
 
 int main() {
     std::thread thr(tf);
-    std::cout << "main Send signal\n";
+    std::cout << "[main] Send signal\n";
     m2t.release();
     t2m.acquire();
     std::cout << "[main] Got signal\n";
