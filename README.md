@@ -6,6 +6,7 @@
 
 0. Bubble Sort
 1. Synchronization
+2. Inter-Process Communication
 
 # Instructions
 
