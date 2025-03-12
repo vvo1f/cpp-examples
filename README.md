@@ -7,10 +7,10 @@ You may want to take a look at them to improve your knowledge and enjoy this fan
 
 # Instructions
 
-> $ g++ -std=c++20 your_file.cpp -o output
+> $ g++ -o output your_file.cpp -lstdc++
 
 # Table of Contents
 
-0. Basics
+0. Basic
 1. Synchronization
 2. Inter-Process Communication
