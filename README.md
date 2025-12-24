@@ -12,5 +12,6 @@ You may want to take a look at them to improve your knowledge and enjoy this fan
 # Table of Contents
 
 0. Basic
-1. Synchronization
-2. Inter-Process Communication
+1. CPP Library
+2. Synchronization
+3. Inter-Process Communication
