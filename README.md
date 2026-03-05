@@ -8,10 +8,3 @@ You may want to take a look at them to improve your knowledge and enjoy this fan
 # Instructions
 
 > $ g++ -o output your_file.cpp -lstdc++
-
-# Table of Contents
-
-0. Basic
-1. CPP Library
-2. Synchronization
-3. Inter-Process Communication
