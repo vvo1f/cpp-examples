@@ -17,7 +17,7 @@ You have couple of different options for developing the C++ project:
 
 After writing the code, simply compile and run the code.
 Please, refer to their documentations for more details
-NOTE: For VsCode you may find useful information [here][https://code.visualstudio.com/docs/languages/cpp]
+NOTE: For VsCode you may find useful information [here](https://code.visualstudio.com/docs/languages/cpp).
 
 2. Using g++ compiler directly in unix systems by executing the following command:
 
