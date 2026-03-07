@@ -1,6 +1,6 @@
 /**
  * @file ex1.cpp
- * @author your name (you@domain.com)
+ * @author Salar Farahmand
  * @brief 
  *          Objective: 
                 CPP projects skeleton and structure
