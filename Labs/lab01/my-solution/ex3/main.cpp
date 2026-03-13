@@ -1,0 +1,34 @@
+/**
+ * @file main.cpp
+ * @author Salar Farahmand
+ * @version 0.1
+ * 
+ * @copyright Copyright (c) 2026
+ * 
+ */
+
+/*
+    Exercise 03
+    Code analysis: fork, exec, system
+    ---------------------------------
+
+    Given the following program, draw the process generation tree and
+    explain what it displays and why.
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main () {
+int i;
+setbuf (stdout,0);
+for (i=0; i<2; i++) {
+    printf ("i=%d\n", i);
+    if (fork())             // Call # 1
+    fork ();              // Call # 2
+    else
+    system ("echo i=i");  // Call # 3
+}
+return (1);
+}

@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Salar Farahmand
+ * @version 0.1
+ * 
+ * @copyright Copyright (c) 2026
+ * 
+ */
+
 /*
 Description:
 The main program receives an integer n on the command line.
