@@ -3,7 +3,7 @@
  * @author Salar Farahmand
  * @brief 
  *          Objective: C++ Library > struct
- *          Reference: #10 of u03s04
+ *          Reference: #13 of u03s04
  * @version 0.1
  * @date 2026-03-14
  * 
@@ -11,12 +11,12 @@
  * 
  */
 
-// version 2
+// version 3
 
  #include <iostream>
  
 
-struct my_class { // Remember: struct and class are almost the same in C++, except that struct members are public by default, while class members are private by default.
+class my_class { // Remember: struct and class are almost the same in C++, except that struct members are public by default, while class members are private by default.
     // note: by declaring public and private we leverage the encapsulation feature of OOP, which allows us to control the access to the members of the class.
     private:
     int code;
@@ -27,7 +27,7 @@ struct my_class { // Remember: struct and class are almost the same in C++, exce
     }
 
     void print_code();
-};
+}; // note: here we end the class definition with a semicolon.
 
 void my_class::print_code() {
     std::cout << code << std::endl;
