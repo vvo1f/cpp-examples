@@ -1,3 +1,13 @@
-output
-.vscode
-main
+# Objective: Defining white-list rules.
+# 1. Ignore everything in the root
+*
+
+# 2. But do NOT ignore directories (so git can search them)
+!*/
+
+# 3. And do NOT ignore your source files or important metadata
+!.gitignore
+!*.cpp
+!*.h
+!*.hpp
+!README.md
