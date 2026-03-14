@@ -2,7 +2,7 @@
  * @file ex1_v2.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: C++ Library > struct
+ *          Objective: C++ Library > class
  *          Reference: #13 of u03s04
  * @version 0.1
  * @date 2026-03-14
