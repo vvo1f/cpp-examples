@@ -1,5 +1,5 @@
 /**
- * @file ex1_v1.cpp
+ * @file ex8.cpp
  * @author Salar Farahmand
  * @brief 
  *          Objective: C++ Library > struct

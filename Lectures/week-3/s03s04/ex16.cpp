@@ -1,5 +1,5 @@
 /**
- * @file ex1_v2.cpp
+ * @file ex16.cpp
  * @author Salar Farahmand
  * @brief 
  *          Objective: C++ Library > class
