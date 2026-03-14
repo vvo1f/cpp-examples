@@ -5,11 +5,13 @@ Here you can find the exercises that introduced during the lectures of System an
 # Table of Contents
 
 0. week-1
-1.
+1. week-3
 2.
 3.
 
 # Instructions
+
+## Execution
 
 You have couple of different options for developing the C++ project:
 
@@ -26,3 +28,7 @@ $ g++ -o output your_file.cpp -lstdc++
 ```
 
 Then you can simply execute the output file.
+
+## Debugging
+
+You may want to put some break points on the line you desire (red circle) and trace and analyze the changes using the debugging window that will be appeared at top when you Debug a cpp source file.
