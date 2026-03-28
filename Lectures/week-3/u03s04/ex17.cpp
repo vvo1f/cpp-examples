@@ -2,7 +2,7 @@
  * @file ex17.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: C++ Library > class
+ *          Objective: C++ Basics > class
  *          Reference: #17 of u03s04
  * @version 0.1
  * @date 2026-03-14
