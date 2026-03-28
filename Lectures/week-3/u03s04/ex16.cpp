@@ -2,7 +2,7 @@
  * @file ex16.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: C++ Basics > class
+ *          Topic: C++ Basics > class
  *          Reference: #16 of u03s04
  * @version 0.1
  * @date 2026-03-14

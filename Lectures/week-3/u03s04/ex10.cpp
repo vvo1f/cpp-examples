@@ -2,7 +2,7 @@
  * @file ex10.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: C++ Basics > struct
+ *          Topic: C++ Basics > struct
  *          Reference: #10 of u03s04
  * @version 0.1
  * @date 2026-03-14

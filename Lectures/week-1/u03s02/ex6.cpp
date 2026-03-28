@@ -2,7 +2,7 @@
  * @file ex6.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: Cpp basics.
+ *          Topic: Cpp basics.
  *          Reference: This example addresses the page#30 of u03s02 C++ Basics slide.
  * @version 0.1
  * @date 2026-03-07

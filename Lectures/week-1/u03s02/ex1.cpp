@@ -2,7 +2,7 @@
  * @file ex1.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: Review basic data structures and algorithms in C++.
+ *          Topic: Review basic data structures and algorithms in C++.
                 Pointers vs. references
  *          Reference: This example addresses the page#23 of u03s02 C++ Basics slide.
  * @version 0.1

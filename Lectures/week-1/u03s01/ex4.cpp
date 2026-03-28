@@ -2,7 +2,7 @@
  * @file ex4.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: 
+ *          Topic: 
                 Example#3: combination of Example#1 (ex2.c) and Example#2 (ex3.cpp)
  *          Reference: This example addresses the page#38 of u03s01 Introduction to C++ slide.
  * @version 0.1

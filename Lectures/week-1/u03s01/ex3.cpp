@@ -2,7 +2,7 @@
  * @file ex3.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: 
+ *          Topic: 
                 Example#2
  *          Reference: This example addresses the page#37 of u03s01 Introduction to C++ slide.
  * @version 0.1

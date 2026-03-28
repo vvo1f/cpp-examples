@@ -2,7 +2,7 @@
  * @file ex1.cpp
  * @author Salar Farahmand
  * @brief 
- *          Objective: 
+ *          Topic: 
                 CPP projects skeleton and structure
  *          Reference: This example addresses the page#24 of u03s01 Introduction to C++ slide.
  * @version 0.1
