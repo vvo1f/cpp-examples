@@ -1,5 +1,5 @@
 ## Topics
 
-- s01: Course Introduction
-- s02: Reviews
-- s03: CPP Basics
+- u01: Course Introduction
+- u02: Reviews
+- u03: CPP Basics
