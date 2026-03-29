@@ -6,8 +6,11 @@ Here you can find the exercises that introduced during the lectures of System an
 
 0. week-1
 1. week-3
-2.
-3.
+2. week-5
+3. week-7 (pending)
+4.
+5.
+
 
 # Instructions
 
